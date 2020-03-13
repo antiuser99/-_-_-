@@ -7,4 +7,5 @@
 		"hook_id" : "lib/tweak_data/playertweakdata",
 		"script_path" : "follow.lua"
 	}
-]
+        ]
+}
