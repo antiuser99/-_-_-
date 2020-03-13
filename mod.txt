@@ -1,0 +1,10 @@
+{
+	"name" : "Civil Follow Mod",
+	"author" : "TheOnlyMan",
+
+	"hooks" : [
+	{ 	
+		"hook_id" : "lib/tweak_data/playertweakdata",
+		"script_path" : "follow.lua"
+	}
+]
